@@ -14,3 +14,25 @@ Finalidad: Generar  un método innovador en términos de precisión para predeci
 ![image](https://github.com/Gianmarco30/USIL_CAPSTONE202301_G10/assets/51091925/29b14054-8394-48d8-8d07-8015b2c83d4e)
 
 ## Actividades desarrolladas
+- Carga de la data
+- Visualizar el información descriptiva de los datos
+- Explorar de los datos
+- Eliminación de columnas innecesarias
+- ..
+- Entrenar el modelo (RF, SVM, LR, KNN, NB y DT)
+- Evaluar con validación cruzada 10 veces
+- Predecir con la data de prueba
+- Calcular las métricas (Accuracy, Precision, Recall, F1-score)
+
+## Ambiente de desarrollo
+- Python 3.11.3
+- Jupyter
+## Librerías usadas
+- Matplotlib
+- Numpy
+- Pandas
+- Sklearn
+- Tabulate
+## Enlace del video de configuración
+
+## Enlace del video DEMO
