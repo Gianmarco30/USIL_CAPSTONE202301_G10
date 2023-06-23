@@ -19,20 +19,27 @@ Finalidad: Generar  un método innovador en términos de precisión para predeci
 - Explorar de los datos
 - Eliminación de columnas innecesarias
 - ..
+- ..
+- .
 - Entrenar el modelo (RF, SVM, LR, KNN, NB y DT)
 - Evaluar con validación cruzada 10 veces
 - Predecir con la data de prueba
 - Calcular las métricas (Accuracy, Precision, Recall, F1-score)
-
+## Data set 
+  La data se obtuvo de Kaggle 
+  https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data 
 ## Ambiente de desarrollo
 - Python 3.11.3
 - Jupyter
+- Miniconda
 ## Librerías usadas
 - Matplotlib
 - Numpy
 - Pandas
 - Sklearn
 - Tabulate
+- ..
+- ..
 ## Enlace del video de configuración
 
 ## Enlace del video DEMO
