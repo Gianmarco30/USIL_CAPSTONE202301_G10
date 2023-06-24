@@ -15,18 +15,22 @@ Finalidad: Generar  un método innovador en términos de precisión para predeci
 
 ## Actividades desarrolladas
 - Carga de la data
-- Visualizar el información descriptiva de los datos
+- Visualizar la información descriptiva de los datos
+- Analizar el número de casos benignos y malignos
 - Explorar de los datos
 - Eliminación de columnas innecesarias
-- ..
-- ..
-- .
+- Conversion de datos a númericos ("M":1, "B":0)
+- Asignamos los datos a "X" e "y"
+- Estandarización
+- Analisis de componentes principales
+- División de datos
 - Entrenar el modelo (RF, SVM, LR, KNN, NB y DT)
-- Evaluar con validación cruzada 10 veces
+- Validación cruzada 10 veces
 - Predecir con la data de prueba
+- Matriz de confución
 - Calcular las métricas (Accuracy, Precision, Recall, F1-score)
 ## Data set 
-  La data se obtuvo de Kaggle 
+  La data WBCD se obtuvo de Kaggle 
   https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data 
 ## Ambiente de desarrollo
 - Python 3.11.3
@@ -37,9 +41,8 @@ Finalidad: Generar  un método innovador en términos de precisión para predeci
 - Numpy
 - Pandas
 - Sklearn
+- Seaborn
 - Tabulate
-- ..
-- ..
 ## Enlace del video de configuración
 
 ## Enlace del video DEMO
