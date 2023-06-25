@@ -54,9 +54,11 @@ paciente = pd.DataFrame([datos], columns=columnas)
 ss = StandardScaler()
 pac_norm = ss.fit_transform(paciente)
 
+
 # PCA
 pca = PCA(n_components=1)
 pac_pca = pca.fit_transform(pac_norm)
+
 
 # Cargar el modelo entrenado desde el archivo utilizando joblib
 modelo = load(ruta_modelo)
