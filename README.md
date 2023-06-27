@@ -47,9 +47,10 @@ Finalidad: Generar  un método innovador en términos de precisión para predeci
 Se abre el prototipo.py y en la terminal se crea en el entorno-> conda env create -f ruta_de_entorno.yml
 ![image](https://github.com/Gianmarco30/USIL_CAPSTONE202301_G10/assets/51091925/7118fbdf-982e-4f1a-9961-f4d5c4d3aadb)
 Luego activamos el entorno creado con-> conda activate capstone2
-y por ultimo se ingresa la muestra para predicr si es maligo o benigno
+y por ultimo se ingresa la muestra para predecir si es maligo o benigno
 ![image](https://github.com/Gianmarco30/USIL_CAPSTONE202301_G10/assets/51091925/fe9c3c49-21fa-4a51-b699-dde78a5239f6)
 
 ## Enlace del video de configuración
-
+https://youtu.be/kGKWsh8yU6I
 ## Enlace del video DEMO
+https://youtu.be/V9kd3sYR0ow
