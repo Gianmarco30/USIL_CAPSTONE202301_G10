@@ -43,6 +43,7 @@ Finalidad: Generar  un método innovador en términos de precisión para predeci
 - Sklearn
 - Seaborn
 - Tabulate
+- Joblib
 ## Configuración del entorno
 Se abre el prototipo.py y en la terminal se crea en el entorno-> conda env create -f ruta_de_entorno.yml
 ![image](https://github.com/Gianmarco30/USIL_CAPSTONE202301_G10/assets/51091925/7118fbdf-982e-4f1a-9961-f4d5c4d3aadb)
