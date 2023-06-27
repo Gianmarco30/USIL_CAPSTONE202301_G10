@@ -48,6 +48,7 @@ Se abre el prototipo.py y en la terminal se crea en el entorno-> conda env creat
 ![image](https://github.com/Gianmarco30/USIL_CAPSTONE202301_G10/assets/51091925/7118fbdf-982e-4f1a-9961-f4d5c4d3aadb)
 Luego activamos el entorno creado con-> conda activate capstone2
 y por ultimo se ingresa la muestra para predecir si es maligo o benigno
+con-> ruta_del_prototipo.py valores_de_tumor_30_parametros ruta_del_modelo_entrenado
 ![image](https://github.com/Gianmarco30/USIL_CAPSTONE202301_G10/assets/51091925/fe9c3c49-21fa-4a51-b699-dde78a5239f6)
 
 ## Enlace del video de configuración
